@@ -14,6 +14,13 @@
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/laravel/framework" />
@@ -148,11 +155,28 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/Reducers" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/Reducers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/js/Pages/Dashboard" />
+      <recent name="$PROJECT_DIR$/resources/js/Pages/Index" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -168,7 +192,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602380139450</updated>
-      <workItem from="1602380140487" duration="2742000" />
+      <workItem from="1602380140487" duration="10137000" />
     </task>
     <servers />
   </component>
@@ -179,14 +203,46 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="341" y="164" key="SettingsEditor" timestamp="1602380189123">
+    <state x="636" y="205" key="#com.intellij.ide.util.MemberChooser" timestamp="1602418573821">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1602380189122" />
-    <state x="41" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1602417542311">
+    <state x="636" y="205" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1602418573821" />
+    <state width="1638" height="302" key="GridCell.Tab.0.bottom" timestamp="1602428058757">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="41" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1602417542311" />
+    <state width="1638" height="302" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1602428058757" />
+    <state width="1638" height="302" key="GridCell.Tab.0.center" timestamp="1602428058756">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="302" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1602428058756" />
+    <state width="1638" height="302" key="GridCell.Tab.0.left" timestamp="1602428058755">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="302" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1602428058755" />
+    <state width="1638" height="302" key="GridCell.Tab.0.right" timestamp="1602428058756">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="302" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1602428058756" />
+    <state x="507" y="242" key="NewPhpClassDialog" timestamp="1602423367616">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="507" y="242" key="NewPhpClassDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1602423367616" />
+    <state x="341" y="164" key="SettingsEditor" timestamp="1602427813732">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1602427813732" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1602427817438">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.0.1680.1050@0.0.1680.1050" timestamp="1602427817438" />
+    <state x="100" y="100" width="1480" height="850" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1602427999250">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="100" y="100" width="1480" height="850" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1602427999250" />
+    <state x="41" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1602429481922">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="41" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1602429481922" />
     <state x="41" y="233" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1602417346816" />
   </component>
 </project>
